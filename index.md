@@ -23,10 +23,14 @@ I am a master student at the [Hanoi University of Science and Technology](https:
 3. Trung, Tran Ba, et al.
 
 
-
 ### Awards
 * * *
 
 * Best paper at The Tenth International Symposium on Information and Communication Technology. ACM, 2019
 
 
+### Miscellaneous
+* * *
+
+#### 2019
+* My Vimrc for configure Python IDE in terminal (under-construction) [link](./posts/p2-my-vimrc.html)
