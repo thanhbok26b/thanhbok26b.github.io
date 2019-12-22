@@ -5,38 +5,56 @@ title: My Vimrc Configuration - Python IDE in Terminal
 date: 22 12 2019
 ---
 
+This post is a guide to setup a Vim as an IDE for Python. 
+
 ### General Configuration
+* * *
+
+To enable syntax highlighting
 ```
-" enable syntax highlighting
 if has("syntax")
   syntax on
 endif
+let python_highlight_all=1
+```
 
-" show line numbers
+Show matching parenthesis
+```
+set showmatch
+```
+
+Show the line numbers
+```
 set number
+```
 
-" set tabs to have 4 spaces
+Set tabwidth 4 as PEP8 and expand tabs into spaces. Also keep indent when moving on to next line
+```
 set tabstop=4
 set shiftwidth=4
-
-" expand tabs into spaces
 set expandtab
-
-" keep indent when moving to next line
 filetype indent on
 set autoindent
+```
 
-" show matching parenthesis
-set showmatch
-
-" enable all Python syntax highlighting features
-let python_highlight_all=1
-
-" code folding
+Code folding toggle using _Spacebar_ key
+```
 nnoremap <space> za
 set foldmethod=indent
 ```
 
+Enable comment code in Visual mode with _Highlight+'#'_ for comment and _Highlight+'-'+'#'_ for uncomment
+```
+vnoremap <silent> # :s/^/#/<cr>:noh<cr>
+vnoremap <silent> -# :s/^#//<cr>:noh<cr>
+```
+
+I use Monokai theme to make vim look like SublimeText, since I had migrated from using SublimeText (5 years) to Vim. Noted that you have to follow the instruction to install the custom color theme [here](https://github.com/sickill/vim-monokai)
+```
+colorscheme monokai
+```
+
+Here is the tricky part...
 ### Vundle Plugin
 ```
 " Vundle Plugin Manager
@@ -59,13 +77,8 @@ map <leader>g  :YcmCompleter GoToDefinitionElseDeclaration<CR>
 
 ### Extra to make it look like SublimeText
 ```
-" Monokai theme
-colorscheme monokai
 
 " NERDTree on startup vim
 autocmd VimEnter * NERDTree
 
-" Enable comment in visual mode
-vnoremap <silent> # :s/^/#/<cr>:noh<cr>
-vnoremap <silent> -# :s/^#//<cr>:noh<cr>
 ```

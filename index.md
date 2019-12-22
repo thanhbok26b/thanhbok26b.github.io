@@ -2,8 +2,7 @@
 layout: default
 ---
 
-I am a master student at the [Hanoi University of Science and Technology](https://hust.edu.vn/). I am also a member of the [Modelling, Simulation and Optimization Laboratory](http://mso.soict.hust.edu.vn/) and am fortunate to be advised by [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/). My primary interest is ...
-
+I am a master student at the [Hanoi University of Science and Technology](https://hust.edu.vn/). I am also a member of the [Modelling, Simulation and Optimization Laboratory](http://mso.soict.hust.edu.vn/) and am fortunate to be advised by [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/). My current work focus on Memetic Optimization Algorithm and Reinforcement Learning.
 
 
 ### Recent activities
