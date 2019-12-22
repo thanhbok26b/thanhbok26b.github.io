@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+I am a master student at the [Hanoi University of Science and Technology](https://hust.edu.vn/). I am also a member of the [Modelling, Simulation and Optimization Laboratory](http://mso.soict.hust.edu.vn/) and am fortunate to be advised by [Prof. Huynh Thi Thanh Binh](https://users.soict.hust.edu.vn/binhht/). My primary interest is ...
+
+
+
+### Recent activities
+* * *
+#### 2019
+
+* Implement MFEA-II (Multifactorial Evolutionary Algorithm with Online Parameter Estimation) in Python. Available at [MFEA-II Python](https://github.com/thanhbok26b/mfea-ii) 
+
+* Participated in the 10th SoICT Conference. [link](./posts/p1-soict-2019.html)
+
+
+### Publications
+* * *
+
+1. Thanh, Le Tien, et al. "Cow estrus detection via Discrete Wavelet Transformation and Unsupervised Clustering." Proceedings of the Ninth International Symposium on Information and Communication Technology. ACM, 2018. [link](https://dl.acm.org/citation.cfm?id=3287973)
+2. Toan, Tran Viet, et al.
+3. Trung, Tran Ba, et al.
+
+
+
+### Awards
+* * *
+
+* Best paper at The Tenth International Symposium on Information and Communication Technology. ACM, 2019
+
+
