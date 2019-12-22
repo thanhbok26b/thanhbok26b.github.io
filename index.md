@@ -18,8 +18,8 @@ I am a master student at the [Hanoi University of Science and Technology](https:
 * * *
 
 1. Thanh, Le Tien, et al. "Cow estrus detection via Discrete Wavelet Transformation and Unsupervised Clustering." Proceedings of the Ninth International Symposium on Information and Communication Technology. ACM, 2018. [link](https://dl.acm.org/citation.cfm?id=3287973)
-2. Toan, Tran Viet, et al.
-3. Trung, Tran Ba, et al.
+2. Toan, Tran Viet, et al. "Cow estrus detection with low-frequency accelerometer sensor by unsupervised learning" Proceedings of the Tenth International Symposium on Information and Communication Technology. ACM, 2019. [link](https://dl.acm.org/citation.cfm?id=3369683)
+3. Trung, Tran Ba, et al. "Multifactorial Evolutionary Algorithm For Clustered Minimum Routing Cost Problem" Proceedings of the Tenth International Symposium on Information and Communication Technology. ACM, 2019. [link](https://dl.acm.org/citation.cfm?id=3368926)
 
 
 ### Awards
