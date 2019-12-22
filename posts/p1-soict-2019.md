@@ -3,6 +3,7 @@ layout: post
 author: Le Tien Thanh
 title: SoICT 2019 Conference - Halong Bay
 date: 22 12 2019
+exclude: true
 ---
 
 

@@ -3,6 +3,7 @@ layout: post
 author: Le Tien Thanh
 title: My Vimrc Configuration - Python IDE in Terminal
 date: 22 12 2019
+exclude: true
 ---
 
 This post is a guide to setup a Vim as an IDE for Python. I will start with several basic configuration on syntax highlighting, indentation, code folding and commenting shortcut setting for Python in Vim. Then, I will introduct the way to setup several plugin for auto complete Python code. Finally, I will present the way to use NERDTree to keep track of file structure when you are in large project. The final result is we have a Python IDE that is nearly identical to SublimeText, but you will not have to leave the home row of your keyboard to reaching for your mouse.
